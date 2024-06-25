@@ -1,5 +1,5 @@
-# Manual Testing project of an e-commerce site named Fabrilife
-- [WebSite Link.](https://play.google.com/store/apps/details?id=com.mahfil.app)
+# Manual Testing project of Mobile Application ### Mahfil
+- [App Link.](https://play.google.com/store/apps/details?id=com.mahfil.app)
 
 ## [Live Project](https://docs.google.com/spreadsheets/d/1UxAehLUMlKNDK852KdBPiuhQ5lRKSksaABEEZWgfHQA/edit?usp=sharing)
 
